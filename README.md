@@ -77,5 +77,5 @@ Based on the analysis, we recommend the following actions:
 - Python for Time Series Data Analysis:		By Dr. Jose Portilla (Pierian Training) - UDEMY
 - Complete KoboToolbox (ODK), google form Training:	By Alexander Mtembenuzeni - UDEMY
 - Map Academy: Get mapping quickly, with QGIS:	By Professor Alasdair Rae - UDEMY
-	- Map Academy: Taking QGIS to the next level: 		By Professor Alasdair Rae - UDEMY
-	- The Supervised Machine Learning Bootcamp:		By 365 Careers - UDEMY
+- Map Academy: Taking QGIS to the next level: 		By Professor Alasdair Rae - UDEMY
+- The Supervised Machine Learning Bootcamp:		By 365 Careers - UDEMY
